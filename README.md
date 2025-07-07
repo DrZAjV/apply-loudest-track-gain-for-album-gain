@@ -1,5 +1,8 @@
 # apply-loudest-track-gain-for-album-gain
 
+# Background:
+https://www.aes.org/technical/documentDownloads.cfm?docID=731
+
 # Required:
 
 rsgain
