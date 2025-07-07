@@ -1,6 +1,6 @@
 # apply-loudest-track-gain-for-album-gain
 
-Required:
+# Required:
 
 rsgain
 
@@ -10,7 +10,7 @@ pip3 install mutagen
 
 
 
-Usage:
+# Usage:
 
 Step 1:
 
